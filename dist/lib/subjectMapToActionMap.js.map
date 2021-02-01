@@ -1,0 +1,1 @@
+{"version":3,"file":"subjectMapToActionMap.js","sourceRoot":"","sources":["../../src/subjectMapToActionMap.ts"],"names":[],"mappings":";;AACA,iCAA6C;AAE7C,SAAgB,qBAAqB,CAAI,UAAyB;IAChE,OAAO,2BAAmB,CAAuC,UAAU,EAAE,UAAA,GAAG,IAAI,OAAA,UAAC,GAAG;QACtF,OAAA,UAAU,CAAC,GAAG,CAAC,CAAC,IAAI,CAAC,GAAG,CAAC;IAAzB,CAAyB,EADyD,CACzD,CAC1B,CAAA;AACH,CAAC;AAJD,sDAIC"}
